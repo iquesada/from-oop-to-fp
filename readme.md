@@ -14,6 +14,7 @@
  - [Immutable data structures for functional JavaScript](https://www.youtube.com/watch?v=Wo0qiGPSV-s), video.
 
 ## People
+ - Philip Wadler (Lambdaman). Haskell's father.
  - Georgina McFadyen. Some interesting videos about Elixir.
  - Anjana Vakil. Functional programming in JavaScript. Interesting videos about immutability.
 
